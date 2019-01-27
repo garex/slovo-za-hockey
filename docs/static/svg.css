@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto');
+
+svg {
+    filter: drop-shadow(0 0 1.5vmin rgba(0,0,0,1));
+}
+
+* {
+    -webkit-tap-highlight-color: transparent;
+    -moz-tap-highlight-color: transparent;
+}
+
+svg:active {
+    filter: drop-shadow(0 0 0.5vmin rgba(0,0,0,1));
+}
+
+.node path,
+.node polygon,
+.node ellipse {
+    fill: rgba(0, 0, 0, 0.66);
+}
+
+.node.root ellipse {
+    fill: rgba(255, 255, 255, 0.90);
+}
+
+.edge path {
+    stroke: rgba(255, 255, 255, 0.90);
+    stroke: rgba(80, 80, 80, 0.80);
+}
+.edge polygon {
+    fill: rgba(255, 255, 255, 0.90);
+    stroke: rgba(255, 255, 255, 0.90);
+    
+    fill: rgba(80, 80, 80, 0.90);
+    stroke: rgba(80, 80, 80, 0.90);
+}
+
+text {
+    fill: white;
+    font-family: 'Oswald', sans-serif !important;
+    /* font-size: 3.5vmin; */
+}
+
+.node.root text {
+    fill: black;
+}
+
+.node.no-link text {
+    cursor: default;
+}
+
+.node text {
+    font-weight: bold;
+}
+
+.node text:first-of-type {
+    fill: #a17f1a;
+    font-weight: normal;
+}
+
+.node.has-pronunciation text:last-child {
+    fill: gray;
+    font-weight: normal;
+}
