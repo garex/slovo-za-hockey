@@ -1,0 +1,41 @@
+{
+    "name": "garex/slovo-za-hockey",
+    "description": "Разговорник популярных английских слов для хоккея в формате карты мыслей.",
+    "type": "site",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ustimenko Alexander",
+            "email": "ustimenko.alexander@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "^4.2"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.14"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ontology\\": "src/"
+        }
+    },
+    "scripts": {
+        "fix": [
+            "php-cs-fixer fix --using-cache=no --ansi --allow-risky=yes --rules=@Symfony bin",
+            "php-cs-fixer fix --using-cache=no --ansi --allow-risky=yes --rules=@Symfony data",
+            "php-cs-fixer fix --using-cache=no --ansi --allow-risky=yes --rules=@Symfony src",
+            "php-cs-fixer fix --using-cache=no --ansi --allow-risky=yes --rules=@Symfony template"
+        ],
+        "export": "@php bin/export.php",
+        "missing": "@php bin/missing.php",
+        "render-dot": "@php bin/render-dot.php",
+        "render-svg": "cd dot && parallel -i dot -Tsvg {} -o ../docs/svg/{}.svg -- *",
+        "render-html": "@php bin/render-html.php",
+        "generate": [
+            "@render-dot",
+            "@render-svg",
+            "@render-html"
+        ]
+    }
+}
