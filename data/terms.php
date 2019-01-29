@@ -72,3 +72,38 @@ $point = new Term(
     2766,
     new Stringable('Awarded to a player for each goal scored or assist earned. Awarded two to team for winning a game and one when a team ties.')
 );
+$shot = new Term(
+    new Localized('Shot', 'Бросок', 'Шат'),
+    13078,
+    new Stringable('Attempt by a player to score a goal by striking or snapping the puck with their stick in the direction of the net.')
+);
+$flipShot = new Term(
+    new Localized('Flip shot', 'Подкидка', 'Флип шат'),
+    216,
+    new Stringable('Shoveling motion to push the puck in the desired direction, or a flick of the puck (be it on the forehand, backhand, or in a spearing motion). Players typically resort to shovelling the puck to push loose pucks past a sprawling, or out-of-position goaltender.')
+);
+$wristShot = new Term(
+    new Localized('Wrist shot', 'Кистевой', 'Рист шат'),
+    767 + 312,
+    new Stringable('Using arm muscles to propel a puck forward from the concave side of the stick`s blade.')
+);
+$slapShot = new Term(
+    new Localized('Slapshot', 'Щелчок', 'Слэпшат'),
+    144 + 37 + 25,
+    new Stringable('The player draws stick back away from the puck, forcefully brings it forward to strike the ice just behind the puck. When the stick finally contacts the puck, the energy stored in the flexed stick is transferred to the puck, providing additional force.')
+);
+$snapShot = new Term(
+    new Localized('Snap shot', 'Короткий щелчок', 'Снэп шат'),
+    176 + 76 + 55,
+    new Stringable('Combination of both the slap-shot and the wrist shot. The shooter begins by cocking the stick back like a slap-shot (however with not such an exaggerated motion), and finishes with a flicking of the wrist like a wrist shot.')
+);
+$backhandShot = new Term(
+    new Localized('Backhand shot', 'С неудобной', 'ˈБэкˌхэнд шат'),
+    1136 + 254,
+    new Stringable('Wrist shot released from the back of the blade, and on the player`s backhand; often unexpected.')
+);
+$onetimer = new Term(
+    new Localized('One-timer', 'В одно касание', 'Уан-ˈтаймэр'),
+    609,
+    new Stringable('Player meets a teammate`s pass with an immediate shot, without any attempt to control the puck on his stick')
+);

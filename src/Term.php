@@ -38,7 +38,7 @@ class Term extends Stringable
 
     public function hasDescription(): bool
     {
-        return null !== $this->description;
+        return null !== $this->description && !$this->description->isEmpty();
     }
 
     public function popularity(): int
