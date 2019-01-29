@@ -11,6 +11,11 @@ class Stringable
         $this->value = $value;
     }
 
+    public function isEmpty(): bool
+    {
+        return empty($this->value);
+    }
+
     public function __toString()
     {
         return $this->value;
