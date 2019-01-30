@@ -19,6 +19,8 @@ svg:active {
     fill: rgba(0, 0, 0, 0.66);
 }
 
+.node.root path,
+.node.root polygon,
 .node.root ellipse {
     fill: rgba(255, 255, 255, 0.90);
 }
