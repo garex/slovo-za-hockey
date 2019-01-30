@@ -107,3 +107,35 @@ $onetimer = new Term(
     609,
     new Stringable('Player meets a teammate`s pass with an immediate shot, without any attempt to control the puck on his stick')
 );
+$game = new Term(
+    new Localized('Game', 'Игра', 'Гейм'),
+    5432,
+    new Stringable('
+    A hockey game is contested between two teams which play under the direction of on-ice officials.
+    A game consists of three periods of 20 minutes plus overtime and a penalty-shot shootout if required.
+    Two teams compete to score the most goals in a game. The team that scores the superior number is declared the winner.
+    ')
+);
+$period = new Term(
+    new Localized('Period', 'Период', 'ˈПириэд'),
+    1828,
+    new Stringable('20 minutes of game action time. Teams change ends to start each period. Every period starts with a faceoff at centre ice.')
+);
+$overtime = new Term(
+    new Localized('Overtime', 'Овертайм', 'ˈОувэрˌтайм'),
+    348,
+    new Stringable('A game which must have a winner (i.e., in which a tie score is not
+allowed) and which is tied after regulation time must be extended by
+a sudden-death overtime period of 5, 10, or 20 minutes.')
+);
+$shootout = new Term(
+    new Localized('Shootout', 'Буллиты', 'ˈШутaут'),
+    122,
+    new Stringable('If no goal is scored in the sudden-death overtime period, a penaltyshot
+shootout will be used to determine a winner.')
+);
+$winner = new Term(
+    new Localized('Winner', 'Победитель', 'ˈУинэр'),
+    150 + 1735,
+    new Stringable('The team that scores the superior goals score is declared the winner of the game.')
+);

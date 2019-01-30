@@ -1,18 +1,19 @@
 digraph term {
     graph [
-        layout=neato
-        overlap=scalexy
+        layout=fdp
+        # overlap=scalexy
         splines=true
-        compound=true
+        # compound=true
         stylesheet="../static/svg.css"
         ratio="auto"
         bgcolor="transparent"
     ]
 
     node [
-        shape=box
+        # shape=box style="filled,rounded"
+        # shape=circle
+        # shape=none
         shape=oval
-        shape=circle
         color=gray
         penwidth=0.2
     ]
@@ -27,9 +28,9 @@ digraph term {
         href="../<?php echo new Ontology\FileName($term, '.html'); ?>"
         target="_top"
         fontsize="<?php echo $relations->fontsize($term); ?>"
-        label="<?php echo $term; ?>\n<?php echo $term->translation(); ?><?php echo $term->pronunciation() ? '\n'.$term->pronunciation() : ''; ?>"
+        label="<?php echo $term; ?>\n<?php echo $term->translation(); ?>"
         tooltip="<?php echo $term->translation(); ?>"
-        class="<?php echo ((string) $term == (string) $rootTerm) ? 'root ' : ''; ?><?php echo $term->pronunciation() ? 'has-pronunciation' : ''; ?>"
+        class="<?php echo ((string) $term == (string) $rootTerm) ? 'root ' : ''; ?>"
 
     ]
 <?php
