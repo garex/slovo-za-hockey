@@ -6,17 +6,17 @@
  -->
 <!-- Title: term Pages: 1 -->
 <svg width="315pt" height="540pt"
- viewBox="0.00 0.00 315.11 539.81" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 535.8112)">
+ viewBox="0.00 0.00 315.11 540.01" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 536.0119)">
 <title>term</title>
 <!-- Wrist shot -->
 <g id="node1" class="node root has&#45;pronunciation">
 <title>Wrist shot</title>
 <g id="a_node1"><a xlink:href="javascript:history.back()" xlink:title="Кистевой" target="_top">
-<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="56.5685" cy="-259.4151" rx="56.6372" ry="56.6372"/>
-<text text-anchor="middle" x="56.5685" y="-272.9151" font-family="Times,serif" font-size="15.00" fill="#000000">Wrist shot</text>
-<text text-anchor="middle" x="56.5685" y="-255.9151" font-family="Times,serif" font-size="15.00" fill="#000000">Кистевой</text>
-<text text-anchor="middle" x="56.5685" y="-238.9151" font-family="Times,serif" font-size="15.00" fill="#000000">Рист шат</text>
+<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="56.5685" cy="-259.1822" rx="56.6372" ry="56.6372"/>
+<text text-anchor="middle" x="56.5685" y="-272.6822" font-family="Times,serif" font-size="15.00" fill="#000000">Wrist shot</text>
+<text text-anchor="middle" x="56.5685" y="-255.6822" font-family="Times,serif" font-size="15.00" fill="#000000">Кистевой</text>
+<text text-anchor="middle" x="56.5685" y="-238.6822" font-family="Times,serif" font-size="15.00" fill="#000000">Рист шат</text>
 </a>
 </g>
 </g>
@@ -24,18 +24,18 @@
 <g id="node2" class="node has&#45;pronunciation">
 <title>Shot</title>
 <g id="a_node2"><a xlink:href="../shot.html" xlink:title="Бросок" target="_top">
-<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="239.9376" cy="-288.7492" rx="67.3507" ry="67.3507"/>
-<text text-anchor="middle" x="239.9376" y="-310.7492" font-family="Times,serif" font-size="25.00" fill="#000000">Shot</text>
-<text text-anchor="middle" x="239.9376" y="-282.7492" font-family="Times,serif" font-size="25.00" fill="#000000">Бросок</text>
-<text text-anchor="middle" x="239.9376" y="-254.7492" font-family="Times,serif" font-size="25.00" fill="#000000">Шат</text>
+<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="239.9376" cy="-288.4755" rx="67.3507" ry="67.3507"/>
+<text text-anchor="middle" x="239.9376" y="-310.4755" font-family="Times,serif" font-size="25.00" fill="#000000">Shot</text>
+<text text-anchor="middle" x="239.9376" y="-282.4755" font-family="Times,serif" font-size="25.00" fill="#000000">Бросок</text>
+<text text-anchor="middle" x="239.9376" y="-254.4755" font-family="Times,serif" font-size="25.00" fill="#000000">Шат</text>
 </a>
 </g>
 </g>
 <!-- Shot&#45;&gt;Wrist shot -->
 <g id="edge3" class="edge">
 <title>Shot&#45;&gt;Wrist shot</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M173.4779,-278.1174C156.9267,-275.4697 139.1862,-272.6317 122.6531,-269.9868"/>
-<polygon fill="#000000" stroke="#000000" points="112.5363,-268.3684 123.1217,-265.5046 117.4736,-269.1583 122.4108,-269.9481 122.4108,-269.9481 122.4108,-269.9481 117.4736,-269.1583 121.6999,-274.3916 112.5363,-268.3684 112.5363,-268.3684"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M173.4779,-277.8585C156.9267,-275.2145 139.1862,-272.3804 122.6531,-269.7393"/>
+<polygon fill="#000000" stroke="#000000" points="112.5363,-268.1231 123.121,-265.257 117.4737,-268.9119 122.4111,-269.7007 122.4111,-269.7007 122.4111,-269.7007 117.4737,-268.9119 121.7012,-274.1443 112.5363,-268.1231 112.5363,-268.1231"/>
 </g>
 <!-- Snap shot -->
 <g id="node3" class="node has&#45;pronunciation">
@@ -51,37 +51,37 @@
 <!-- Shot&#45;&gt;Snap shot -->
 <g id="edge1" class="edge">
 <title>Shot&#45;&gt;Snap shot</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M218.3272,-224.8456C214.4334,-213.3313 210.2956,-201.0953 206.1677,-188.889"/>
-<polygon fill="#000000" stroke="#000000" points="202.8643,-179.1206 210.3307,-187.152 204.4661,-183.8571 206.0679,-188.5936 206.0679,-188.5936 206.0679,-188.5936 204.4661,-183.8571 201.805,-190.0352 202.8643,-179.1206 202.8643,-179.1206"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M218.3272,-224.6608C214.4334,-213.1625 210.2956,-200.9435 206.1677,-188.7542"/>
+<polygon fill="#000000" stroke="#000000" points="202.8643,-178.9993 210.3341,-187.0276 204.4681,-183.7352 206.0719,-188.471 206.0719,-188.471 206.0719,-188.471 204.4681,-183.7352 201.8096,-189.9144 202.8643,-178.9993 202.8643,-178.9993"/>
 </g>
 <!-- Backhand shot -->
 <g id="node4" class="node has&#45;pronunciation">
 <title>Backhand shot</title>
 <g id="a_node4"><a xlink:href="../backhand-shot.html" xlink:title="С неудобной" target="_top">
-<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="122.5056" cy="-456.1508" rx="75.8212" ry="75.8212"/>
-<text text-anchor="middle" x="122.5056" y="-469.6508" font-family="Times,serif" font-size="15.00" fill="#000000">Backhand shot</text>
-<text text-anchor="middle" x="122.5056" y="-452.6508" font-family="Times,serif" font-size="15.00" fill="#000000">С неудобной</text>
-<text text-anchor="middle" x="122.5056" y="-435.6508" font-family="Times,serif" font-size="15.00" fill="#000000">ˈБэкˌхэнд шат</text>
+<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="122.5056" cy="-455.6444" rx="76.2353" ry="76.2353"/>
+<text text-anchor="middle" x="122.5056" y="-469.1444" font-family="Times,serif" font-size="15.00" fill="#000000">Backhand shot</text>
+<text text-anchor="middle" x="122.5056" y="-452.1444" font-family="Times,serif" font-size="15.00" fill="#000000">С неудобной</text>
+<text text-anchor="middle" x="122.5056" y="-435.1444" font-family="Times,serif" font-size="15.00" fill="#000000">ˈБэкˌхэнд шат</text>
 </a>
 </g>
 </g>
 <!-- Shot&#45;&gt;Backhand shot -->
 <g id="edge2" class="edge">
 <title>Shot&#45;&gt;Backhand shot</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M201.1605,-344.0266C191.866,-357.2762 181.815,-371.6041 172.105,-385.4459"/>
-<polygon fill="#000000" stroke="#000000" points="166.113,-393.9876 168.1719,-383.2167 168.9844,-389.8943 171.8559,-385.801 171.8559,-385.801 171.8559,-385.801 168.9844,-389.8943 175.5399,-388.3853 166.113,-393.9876 166.113,-393.9876"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M201.1605,-343.6761C191.9766,-356.7498 182.0542,-370.8747 172.4519,-384.5439"/>
+<polygon fill="#000000" stroke="#000000" points="166.524,-392.9826 168.59,-382.2131 169.3981,-388.8912 172.2722,-384.7998 172.2722,-384.7998 172.2722,-384.7998 169.3981,-388.8912 175.9545,-387.3865 166.524,-392.9826 166.524,-392.9826"/>
 </g>
 <!-- Snap shot&#45;&gt;Wrist shot -->
 <g id="edge4" class="edge">
 <title>Snap shot&#45;&gt;Wrist shot</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M120.7818,-167.3399C112.1083,-179.7768 103.2622,-192.4612 95.0189,-204.2813"/>
-<polygon fill="#000000" stroke="#000000" points="89.1341,-212.7194 91.1634,-201.9429 91.9942,-208.6183 94.8544,-204.5171 94.8544,-204.5171 94.8544,-204.5171 91.9942,-208.6183 98.5455,-207.0913 89.1341,-212.7194 89.1341,-212.7194"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M120.441,-167.723C111.892,-179.9643 103.1854,-192.4313 95.0625,-204.0626"/>
+<polygon fill="#000000" stroke="#000000" points="89.2615,-212.369 91.2978,-201.5939 92.1244,-208.2697 94.9872,-204.1704 94.9872,-204.1704 94.9872,-204.1704 92.1244,-208.2697 98.6766,-206.747 89.2615,-212.369 89.2615,-212.369"/>
 </g>
 <!-- Backhand shot&#45;&gt;Wrist shot -->
 <g id="edge5" class="edge">
 <title>Backhand shot&#45;&gt;Wrist shot</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M98.4209,-384.2896C91.686,-364.1946 84.4166,-342.505 77.8559,-322.93"/>
-<polygon fill="#000000" stroke="#000000" points="74.5974,-313.2075 82.042,-321.2591 76.1863,-317.9483 77.7753,-322.6891 77.7753,-322.6891 77.7753,-322.6891 76.1863,-317.9483 73.5085,-324.1192 74.5974,-313.2075 74.5974,-313.2075"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M98.1404,-383.0473C91.4872,-363.2236 84.3313,-341.9024 77.8636,-322.6317"/>
+<polygon fill="#000000" stroke="#000000" points="74.6502,-313.0572 82.0982,-321.1056 76.2411,-317.7973 77.832,-322.5375 77.832,-322.5375 77.832,-322.5375 76.2411,-317.7973 73.5659,-323.9693 74.6502,-313.0572 74.6502,-313.0572"/>
 </g>
 </g>
 </svg>
