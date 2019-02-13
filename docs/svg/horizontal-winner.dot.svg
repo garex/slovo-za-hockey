@@ -6,17 +6,17 @@
  -->
 <!-- Title: term Pages: 1 -->
 <svg width="915pt" height="589pt"
- viewBox="0.00 0.00 915.36 588.87" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 914.53 588.87" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 584.873)">
 <title>term</title>
 <!-- Winner -->
 <g id="node1" class="node root has&#45;pronunciation">
 <title>Winner</title>
 <g id="a_node1"><a xlink:href="javascript:history.back()" xlink:title="Победитель" target="_top">
-<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="532.0606" cy="-252.5334" rx="65.1077" ry="65.1077"/>
-<text text-anchor="middle" x="532.0606" y="-266.0334" font-family="Times,serif" font-size="15.00" fill="#000000">Winner</text>
-<text text-anchor="middle" x="532.0606" y="-249.0334" font-family="Times,serif" font-size="15.00" fill="#000000">Победитель</text>
-<text text-anchor="middle" x="532.0606" y="-232.0334" font-family="Times,serif" font-size="15.00" fill="#000000">ˈУинэр</text>
+<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="530.6868" cy="-252.5334" rx="65.1077" ry="65.1077"/>
+<text text-anchor="middle" x="530.6868" y="-266.0334" font-family="Times,serif" font-size="15.00" fill="#000000">Winner</text>
+<text text-anchor="middle" x="530.6868" y="-249.0334" font-family="Times,serif" font-size="15.00" fill="#000000">Победитель</text>
+<text text-anchor="middle" x="530.6868" y="-232.0334" font-family="Times,serif" font-size="15.00" fill="#000000">ˈУинэр</text>
 </a>
 </g>
 </g>
@@ -24,69 +24,69 @@
 <g id="node4" class="node has&#45;pronunciation">
 <title>Game</title>
 <g id="a_node4"><a xlink:href="../game.html" xlink:title="Игра" target="_top">
-<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="268.749" cy="-377.8536" rx="52.1524" ry="52.1524"/>
-<text text-anchor="middle" x="268.749" y="-394.8536" font-family="Times,serif" font-size="20.00" fill="#000000">Game</text>
-<text text-anchor="middle" x="268.749" y="-372.8536" font-family="Times,serif" font-size="20.00" fill="#000000">Игра</text>
-<text text-anchor="middle" x="268.749" y="-350.8536" font-family="Times,serif" font-size="20.00" fill="#000000">Гейм</text>
+<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="268.1271" cy="-377.8536" rx="52.1524" ry="52.1524"/>
+<text text-anchor="middle" x="268.1271" y="-394.8536" font-family="Times,serif" font-size="20.00" fill="#000000">Game</text>
+<text text-anchor="middle" x="268.1271" y="-372.8536" font-family="Times,serif" font-size="20.00" fill="#000000">Игра</text>
+<text text-anchor="middle" x="268.1271" y="-350.8536" font-family="Times,serif" font-size="20.00" fill="#000000">Гейм</text>
 </a>
 </g>
 </g>
 <!-- Winner&#45;&gt;Game -->
 <g id="edge6" class="edge">
 <title>Winner&#45;&gt;Game</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M473.296,-280.5017C429.1465,-301.5142 369.028,-330.1269 325.3996,-350.8914"/>
-<polygon fill="#000000" stroke="#000000" points="316.3517,-355.1976 323.4473,-346.8368 320.8665,-353.0489 325.3812,-350.9001 325.3812,-350.9001 325.3812,-350.9001 320.8665,-353.0489 327.3151,-354.9634 316.3517,-355.1976 316.3517,-355.1976"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M471.7633,-280.6577C427.8154,-301.6341 368.1348,-330.1198 324.7495,-350.8276"/>
+<polygon fill="#000000" stroke="#000000" points="315.4751,-355.2543 322.5614,-346.8856 319.9875,-353.1005 324.4998,-350.9467 324.4998,-350.9467 324.4998,-350.9467 319.9875,-353.1005 326.4383,-355.0079 315.4751,-355.2543 315.4751,-355.2543"/>
 </g>
 <!-- Score -->
 <g id="node5" class="node has&#45;pronunciation">
 <title>Score</title>
 <g id="a_node5"><a xlink:href="../score.html" xlink:title="Счёт" target="_top">
-<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="798.9673" cy="-52.3259" rx="52.1524" ry="52.1524"/>
-<text text-anchor="middle" x="798.9673" y="-69.3259" font-family="Times,serif" font-size="20.00" fill="#000000">Score</text>
-<text text-anchor="middle" x="798.9673" y="-47.3259" font-family="Times,serif" font-size="20.00" fill="#000000">Счёт</text>
-<text text-anchor="middle" x="798.9673" y="-25.3259" font-family="Times,serif" font-size="20.00" fill="#000000">Скор</text>
+<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="796.8315" cy="-52.3259" rx="52.1524" ry="52.1524"/>
+<text text-anchor="middle" x="796.8315" y="-69.3259" font-family="Times,serif" font-size="20.00" fill="#000000">Score</text>
+<text text-anchor="middle" x="796.8315" y="-47.3259" font-family="Times,serif" font-size="20.00" fill="#000000">Счёт</text>
+<text text-anchor="middle" x="796.8315" y="-25.3259" font-family="Times,serif" font-size="20.00" fill="#000000">Скор</text>
 </a>
 </g>
 </g>
 <!-- Winner&#45;&gt;Score -->
 <g id="edge7" class="edge">
 <title>Winner&#45;&gt;Score</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M584.1565,-213.4561C631.814,-177.7081 701.8555,-125.1698 748.873,-89.9018"/>
-<polygon fill="#000000" stroke="#000000" points="757.0831,-83.7433 751.7838,-93.3437 753.0833,-86.7436 749.0835,-89.7439 749.0835,-89.7439 749.0835,-89.7439 753.0833,-86.7436 746.3832,-86.1441 757.0831,-83.7433 757.0831,-83.7433"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M582.9509,-213.2177C630.3635,-177.5515 699.8023,-125.3162 746.5788,-90.1285"/>
+<polygon fill="#000000" stroke="#000000" points="754.7496,-83.982 749.4634,-93.5897 750.7539,-86.9878 746.7582,-89.9936 746.7582,-89.9936 746.7582,-89.9936 750.7539,-86.9878 744.053,-86.3975 754.7496,-83.982 754.7496,-83.982"/>
 </g>
 <!-- Team -->
 <g id="node6" class="node has&#45;pronunciation">
 <title>Team</title>
 <g id="a_node6"><a xlink:href="../team.html" xlink:title="Команда" target="_top">
-<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="452.7014" cy="-529.2542" rx="51.7379" ry="51.7379"/>
-<text text-anchor="middle" x="452.7014" y="-542.7542" font-family="Times,serif" font-size="15.00" fill="#000000">Team</text>
-<text text-anchor="middle" x="452.7014" y="-525.7542" font-family="Times,serif" font-size="15.00" fill="#000000">Команда</text>
-<text text-anchor="middle" x="452.7014" y="-508.7542" font-family="Times,serif" font-size="15.00" fill="#000000">Тим</text>
+<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="451.5543" cy="-529.2542" rx="51.7379" ry="51.7379"/>
+<text text-anchor="middle" x="451.5543" y="-542.7542" font-family="Times,serif" font-size="15.00" fill="#000000">Team</text>
+<text text-anchor="middle" x="451.5543" y="-525.7542" font-family="Times,serif" font-size="15.00" fill="#000000">Команда</text>
+<text text-anchor="middle" x="451.5543" y="-508.7542" font-family="Times,serif" font-size="15.00" fill="#000000">Тим</text>
 </a>
 </g>
 </g>
 <!-- Winner&#45;&gt;Team -->
 <g id="edge8" class="edge">
 <title>Winner&#45;&gt;Team</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M514.0527,-315.3256C500.76,-361.6766 482.7866,-424.349 469.7313,-469.8719"/>
-<polygon fill="#000000" stroke="#000000" points="466.9408,-479.6024 465.3719,-468.7493 468.3192,-474.7961 469.6976,-469.9899 469.6976,-469.9899 469.6976,-469.9899 468.3192,-474.7961 474.0232,-471.2304 466.9408,-479.6024 466.9408,-479.6024"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M512.7304,-315.3256C499.4757,-361.6766 481.5535,-424.349 468.5356,-469.8719"/>
+<polygon fill="#000000" stroke="#000000" points="465.753,-479.6024 464.1759,-468.7505 467.1277,-474.7951 468.5025,-469.9878 468.5025,-469.9878 468.5025,-469.9878 467.1277,-474.7951 472.8291,-471.2251 465.753,-479.6024 465.753,-479.6024"/>
 </g>
 <!-- Overtime -->
 <g id="node2" class="node has&#45;pronunciation">
 <title>Overtime</title>
 <g id="a_node2"><a xlink:href="../overtime.html" xlink:title="Овертайм" target="_top">
-<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="840.1893" cy="-393.849" rx="67.3507" ry="67.3507"/>
-<text text-anchor="middle" x="840.1893" y="-407.349" font-family="Times,serif" font-size="15.00" fill="#000000">Overtime</text>
-<text text-anchor="middle" x="840.1893" y="-390.349" font-family="Times,serif" font-size="15.00" fill="#000000">Овертайм</text>
-<text text-anchor="middle" x="840.1893" y="-373.349" font-family="Times,serif" font-size="15.00" fill="#000000">ˈОувэрˌтайм</text>
+<ellipse fill="none" stroke="#c0c0c0" stroke-width=".2" cx="837.9358" cy="-393.849" rx="68.6788" ry="68.6788"/>
+<text text-anchor="middle" x="837.9358" y="-407.349" font-family="Times,serif" font-size="15.00" fill="#000000">Overtime</text>
+<text text-anchor="middle" x="837.9358" y="-390.349" font-family="Times,serif" font-size="15.00" fill="#000000">Овертайм</text>
+<text text-anchor="middle" x="837.9358" y="-373.349" font-family="Times,serif" font-size="15.00" fill="#000000">ˈОувэрˌтайм</text>
 </a>
 </g>
 </g>
 <!-- Overtime&#45;&gt;Winner -->
 <g id="edge4" class="edge">
 <title>Overtime&#45;&gt;Winner</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M778.9445,-365.7607C727.5362,-342.1835 654.1453,-308.5246 600.7497,-284.036"/>
-<polygon fill="#000000" stroke="#000000" points="591.3572,-279.7283 602.3228,-279.8068 595.902,-281.8127 600.4469,-283.8971 600.4469,-283.8971 600.4469,-283.8971 595.902,-281.8127 598.5709,-287.9875 591.3572,-279.7283 591.3572,-279.7283"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M775.389,-365.0814C724.2431,-341.5574 652.0176,-308.3381 599.2936,-284.0883"/>
+<polygon fill="#000000" stroke="#000000" points="590.0164,-279.8213 600.9819,-279.9117 594.559,-281.9107 599.1015,-284 599.1015,-284 599.1015,-284 594.559,-281.9107 597.2211,-288.0883 590.0164,-279.8213 590.0164,-279.8213"/>
 </g>
 <!-- Shootout -->
 <g id="node3" class="node has&#45;pronunciation">
@@ -102,26 +102,26 @@
 <!-- Shootout&#45;&gt;Winner -->
 <g id="edge5" class="edge">
 <title>Shootout&#45;&gt;Winner</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M101.4937,-193.3708C186.5186,-205.0537 358.4722,-228.6812 457.4142,-242.2765"/>
-<polygon fill="#000000" stroke="#000000" points="467.3435,-243.6408 456.8239,-246.7376 462.39,-242.9602 457.4365,-242.2795 457.4365,-242.2795 457.4365,-242.2795 462.39,-242.9602 458.0491,-237.8214 467.3435,-243.6408 467.3435,-243.6408"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M101.3492,-193.3708C186.0458,-205.0419 357.2478,-228.6335 455.9544,-242.2353"/>
+<polygon fill="#000000" stroke="#000000" points="466.1545,-243.6408 455.6338,-246.7335 461.2013,-242.9583 456.2481,-242.2757 456.2481,-242.2757 456.2481,-242.2757 461.2013,-242.9583 456.8624,-237.8178 466.1545,-243.6408 466.1545,-243.6408"/>
 </g>
 <!-- Game&#45;&gt;Overtime -->
 <g id="edge2" class="edge">
 <title>Game&#45;&gt;Overtime</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M321.2297,-379.3226C422.3021,-382.1518 644.4027,-388.3687 762.6068,-391.6774"/>
-<polygon fill="#000000" stroke="#000000" points="772.6719,-391.9591 762.5498,-396.1775 767.6738,-391.8192 762.6758,-391.6792 762.6758,-391.6792 762.6758,-391.6792 767.6738,-391.8192 762.8017,-387.181 772.6719,-391.9591 772.6719,-391.9591"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M320.4579,-379.3226C420.8408,-382.1405 640.9478,-388.3193 759.163,-391.6378"/>
+<polygon fill="#000000" stroke="#000000" points="769.2343,-391.9205 759.1119,-396.138 764.2362,-391.7801 759.2382,-391.6398 759.2382,-391.6398 759.2382,-391.6398 764.2362,-391.7801 759.3645,-387.1415 769.2343,-391.9205 769.2343,-391.9205"/>
 </g>
 <!-- Game&#45;&gt;Shootout -->
 <g id="edge3" class="edge">
 <title>Game&#45;&gt;Shootout</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M229.3003,-343.1865C192.0585,-310.4588 136.2194,-261.388 96.9567,-226.8844"/>
-<polygon fill="#000000" stroke="#000000" points="89.3356,-220.187 99.8178,-223.408 93.0915,-223.4876 96.8473,-226.7882 96.8473,-226.7882 96.8473,-226.7882 93.0915,-223.4876 93.8768,-230.1685 89.3356,-220.187 89.3356,-220.187"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M228.791,-343.1865C191.6555,-310.4588 135.9758,-261.388 96.8253,-226.8844"/>
+<polygon fill="#000000" stroke="#000000" points="89.2259,-220.187 99.7036,-223.4228 92.9771,-223.493 96.7282,-226.7989 96.7282,-226.7989 96.7282,-226.7989 92.9771,-223.493 93.7529,-230.1749 89.2259,-220.187 89.2259,-220.187"/>
 </g>
 <!-- Game&#45;&gt;Team -->
 <g id="edge1" class="edge">
 <title>Game&#45;&gt;Team</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M309.574,-411.4543C337.7518,-434.6458 375.321,-465.5669 404.8981,-489.9101"/>
-<polygon fill="#000000" stroke="#000000" points="412.6235,-496.2684 402.0426,-493.388 408.7629,-493.0909 404.9023,-489.9135 404.9023,-489.9135 404.9023,-489.9135 408.7629,-493.0909 407.762,-486.439 412.6235,-496.2684 412.6235,-496.2684"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M308.8355,-411.4543C336.8132,-434.5471 374.0762,-465.3039 403.5105,-489.599"/>
+<polygon fill="#000000" stroke="#000000" points="411.5907,-496.2684 401.0139,-493.3732 407.7346,-493.0855 403.8785,-489.9027 403.8785,-489.9027 403.8785,-489.9027 407.7346,-493.0855 406.743,-486.4321 411.5907,-496.2684 411.5907,-496.2684"/>
 </g>
 </g>
 </svg>
