@@ -30,7 +30,7 @@
         "export": "@php bin/export.php",
         "missing": "@php bin/missing.php",
         "render-dot": "@php bin/render-dot.php",
-        "render-svg": "cd dot && parallel -i dot -Tsvg {} -o ../docs/svg/{}.svg -- *",
+        "render-svg": "cd dot && ls -1 | parallel dot -Tsvg {} -o ../docs/svg/{}.svg",
         "render-html": "@php bin/render-html.php",
         "generate": [
             "@render-dot",
